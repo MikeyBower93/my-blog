@@ -2,7 +2,7 @@
 layout: post
 title:  "Fun with Flags in Elixir"
 subtitle: "LiveView and GenServer"
-date:   2021-01-11 16:15:00 +0000
+date:   2021-01-11 16:16:00 +0000
 categories: Elixir
 background: '/assets/images/code.jpeg'
 --- 
